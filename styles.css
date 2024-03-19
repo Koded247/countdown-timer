@@ -61,10 +61,8 @@ body {
 
 .countdown-item {
   position: relative;
-   /* background-color: hsl(236, 21%, 26%); */
   background: linear-gradient(to top, hsl(235, 16%, 14%) 0 50%,   hsl(234, 17%, 12%)  50% 100%);
   padding: 2rem;
-  /* font-weight: 10rem; */
   font-size: 3rem;
   font-family: "Red Hat Text", sans-serif;
   color: hsl(345, 95%, 68%);
@@ -118,12 +116,7 @@ body {
   height: 1px;
 }
 
-/* .countdown-item {
-  
-  padding: 25px 30px;
-  background-color: hsl(236, 21%, 26%);
-  border-radius: 5px;
-} */
+
 
 .count-down {
   display: flex;
