@@ -6,6 +6,7 @@
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
+  - [Author](#author)
   
 
 
@@ -27,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [live site URL]( )
+- Live Site URL: [live site URL]( https://koded247.github.io/countdown-timer/ )
 
 
 ### Built with
