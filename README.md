@@ -21,9 +21,9 @@ Users should be able to:
 
 ### Screenshot (desktop and mobile view)
 
-![desktop](./images/desktop-preview.jpg)
+![desktop](/images/desktop-design.jpg)
 
-![mobile](./images/mobile-design.jpg)
+![mobile](/images/mobile-design.jpg)
 
 
 ### Links
